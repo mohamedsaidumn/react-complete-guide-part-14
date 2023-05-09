@@ -12,7 +12,7 @@ function HomePage() {
   }, [navigate]);
   return (
     <>
-      <h1>My Home Page</h1>
+      <h1>My Home Page reroutes in 30 second</h1>
     </>
   );
 }
